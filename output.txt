@@ -1,0 +1,3 @@
+With a square grid of 1 x 1 blocks, there exists at least one path with probability 7/16.
+With a square grid of 2 x 2 blocks, there exists at least one path with probability 1135/4096.
+With a square grid of 3 x 3 blocks, there exists at least one path with probability 3329245/16777216.
